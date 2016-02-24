@@ -4,3 +4,8 @@
 *~
 *.swp
 dummy_ksp
+CKAN-meta-master/
+downloads_cache/
+master.tar.gz
+metadata.tar.gz
+
